@@ -1,1 +1,1 @@
- print("PROD =",int(input())*int(input()))
+print("PROD =",int(input())*int(input()))
