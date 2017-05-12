@@ -3,4 +3,4 @@ h = int(input())
 p = float(input())
 
 print("NUMBER =", n)
-print("SALARY = U$", h*p)
+print("SALARY = U$ %.2f" % (h*p))
